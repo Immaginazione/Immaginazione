@@ -14,7 +14,7 @@ git -v
 - Andreea Costachi https://github.com/andreeacostachi  
 - Edson Andres Villa Sanchez https://github.com/ImAndresito   
 - Alberto Bosco https://github.com/BoscoAlberto  
-- Andrea Lentini qtNeeno (github.com)  
+- Andrea Lentini https://github.com/qtNeeno
 - Alessandro Piccolo https://github.com/Sasmalle  
 - Matteo Perrone https://github.com/MatteXR1  
 - Gabriele Rapello https://github.com/GabboRap  
