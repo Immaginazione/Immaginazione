@@ -50,6 +50,9 @@ Per vedere stato repo
 Per vedere link remoti  
 `git remote -v`  
 
+`git branch dev`
+`git push --set-upstream origin dev`
+
 ## Lab 
 
 ### Crea bio Github  
@@ -69,3 +72,4 @@ https://www.gitkraken.com/
 
 Fix credenziali windows:  
 `Pannello di controllo\Account utente\Gestione credenziali`
+
