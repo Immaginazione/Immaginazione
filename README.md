@@ -48,6 +48,7 @@ Per vedere link remoti
 `git remote -v`  
 
 ## Lab 
+
 ### Crea bio Github  
 ### Crea Github page  
 
@@ -60,6 +61,8 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 https://hacktoberfest.com/  
 https://goodfirstissue.dev/   
 
+UI per git 
 https://www.gitkraken.com/
 
-Fix credenziali windows:  `Pannello di controllo\Account utente\Gestione credenziali`
+Fix credenziali windows:  
+`Pannello di controllo\Account utente\Gestione credenziali`
