@@ -69,3 +69,5 @@ https://www.gitkraken.com/
 
 Fix credenziali windows:  
 `Pannello di controllo\Account utente\Gestione credenziali`
+
+git push --set-upstream origin dev
