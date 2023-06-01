@@ -4,10 +4,6 @@ Parte pratica del corso ***
 
 Docente [`Mattia Folcarelli`](https://github.com/lichfolky)
 
-```
-git -v  
-```
-
 ## Studenti:  
 
 - Apostol Eduard https://github.com/Eddirich   
@@ -25,3 +21,32 @@ git -v
 - Andrea Savoia https://github.com/AndreaSavoia2  
 - Simone Capuano https://github.com/Smilo-24  
 - Dario Pantaleo: https://github.com/Pantalino  
+
+## Argomenti principali
+Repository locale / remota
+Github
+
+Inizializzazione repo: `git init`  \ `git clone`   
+
+staging: `git add .`  
+commit: `git commit -m "messaggio"`  
+push modifiche in remoto: `git push`   
+
+update repo: `git pull`   
+
+## Comandi utili
+
+Per testare se è presente git 
+`git -v`
+Per vedere storia commit
+`git log --oneline`
+Per vedere stato repo
+`git status`
+Per vedere link remoti
+`git remote -v`
+
+
+## Risorse extra  
+
+https://hacktoberfest.com/  
+https://goodfirstissue.dev/   
