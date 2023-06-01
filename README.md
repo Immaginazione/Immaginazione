@@ -36,6 +36,9 @@ update repo: `git pull`
 
 Merge request / Pull request 
 
+`git checkout codicecommit`
+`git checkout main`
+
 ## Comandi utili
 
 Per testare se è presente git  
