@@ -1,6 +1,7 @@
 # Immaginazione e lavoro corso di git  
 
-Parte pratica del corso ***   
+Parte pratica del corso **B22-233-2023_TECNICHE DI PROGRAMMAZIONE**  
+
 
 Docente [`Mattia Folcarelli`](https://github.com/lichfolky)
 
